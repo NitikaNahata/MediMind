@@ -38,6 +38,10 @@ QDRANT vector retriever performs similarity search to find top K similar impress
 Retrieved impressions are used as context for the LLM.
 BioMistral generates a detailed radiology summary based on the context and prompt.
 
+![System Design](https://github.com/user-attachments/assets/8c550d4d-734a-400f-bc86-39404d206a4d)
+
+
+
 # Results and Evaluation
 Retrieval Evaluation: Achieved 100% accuracy in matching 50 test image embeddings with their corresponding reports.
 Generator Evaluation: Utilized Claude Sonnet 3.5 as an LLM judge to assess completeness, coherence, relevance, and accuracy of generated responses.

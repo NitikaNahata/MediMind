@@ -50,4 +50,7 @@ Improved accuracy after prompt refinement: 80% (40/50 correct responses)
 Overall score: 3 out of 5 for relevance, accuracy, and conciseness, compared to 1 out of 5 for standalone LLM without RAG.
 These results demonstrate the effectiveness of the MediMind RAG system in generating accurate and relevant radiology reports, showing significant improvement over traditional LLM approaches1
 
+![RAG Evaluation](https://github.com/user-attachments/assets/873bafaa-2192-4306-ae1a-dc83a958b71c)
+
+
 
